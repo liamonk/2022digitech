@@ -1,0 +1,11 @@
+.main{
+  text-align: center;
+  background-color: orange;
+  border-style: groove;
+  border: 20px;
+  float: center;
+}
+
+body{
+  background-color: lightblue;
+}
