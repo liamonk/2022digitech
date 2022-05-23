@@ -4,6 +4,8 @@
   border-style: groove;
   border: 20px;
   float: center;
+  margin: auto;
+  width: 75%;
 }
 
 body{
