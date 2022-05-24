@@ -1,3 +1,7 @@
+body{
+  background-color: lightgrey;
+}
+
 .header{
   background-color: lightblue;
   text-align: center;
@@ -49,11 +53,6 @@
   float: right;
   width: 45%;
   border: 2px;
-}
-
-
-body{
-  background-color: lightgrey;
 }
 
 .footer {
