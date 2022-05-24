@@ -28,7 +28,7 @@
 .mainContent{
   float: right;
   width: 75%;
-  background-color: #FAEBD7;
+  background-color: #ffe6e6;
   border: 2px;
   border-style: solid;
   border-color: black;
@@ -36,6 +36,19 @@
   margin-top: 20px;
   text-align: center;
   margin-right: 2%;
+}
+
+.leftMain{
+  float: left;
+  width: 45%;
+  border: 2px;
+
+}
+
+.rightMain{
+  float: right;
+  width: 45%;
+  border: 2px;
 }
 
 
